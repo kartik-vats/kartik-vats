@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! I'm <b>Kartik Vats</b>, a B.Tech Information Technology student at NIT Kurukshetra. </h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-vats&show_icons=true&theme=dracula&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-vats&layout=compact&theme=dracula" />
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -134,6 +125,4 @@
 
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation"/>
