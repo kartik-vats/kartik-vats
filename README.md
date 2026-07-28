@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! I'm <b>Kartik Vats</b>, a B.Tech Information Technology student at NIT Kurukshetra 🇮🇳 passionate about Full Stack Development, AI, Backend Engineering, and solving real-world problems with technology.</h2>
+<h2 align="left">Hi 👋! I'm <b>Kartik Vats</b>, a B.Tech Information Technology student at NIT Kurukshetra. </h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik-vats&show_icons=true&theme=dracula?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-vats&layout=compact&theme=dracula?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 ###
@@ -19,10 +19,6 @@
 - 💼 Former **Software Developer Intern** at **EdQuest Technologies**
 - 🤖 Passionate about **AI, Full Stack Development & Backend Systems**
 - 🌱 Currently exploring **System Design, Distributed Systems & Cloud**
-- 💻 Solved **500+ LeetCode** problems
-- 🏆 SIH 2024 National Grand Finalist
-- 🌍 Israel–India Hackathon 2025 Offline Grand Finalist
-- ⚡ Love building products that solve real-world problems
 
 ###
 
